@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @dev-n-dra (Devendra Patidar)
-- 👀 I’m interested in creating elegant websites.
-- 🌱 I’m currently learning Frontend Web Development and UI Design
-- 💞️ I’m looking to collaborate on Frontend Development Projects
+- 👋 Hi, I’m @dev-n-dra (Devendra Patidar).
+- 👀 I’m interested in creating elegant websites and useful web applications.
+- 🌱 I’m currently learning Frontend Web Development and UI Design.
+- 💞️ I’m looking to collaborate on Frontend Development Projects.
 - 📫 Reach me on 19patidardevendra@gmail.com
 
 <!---
